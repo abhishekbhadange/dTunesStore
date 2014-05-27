@@ -1,7 +1,7 @@
 dTunesStore
 ===========
 
-Application of design patterns for a simple multi-threaded application
+Application of design patterns/principles for a simple multi-threaded application
 
 The project is based on a local dTunesStore library. Each MusicInfo record having the 
 format: song name, album name, lead singer name, duration, is stored using the Vector 
